@@ -6,12 +6,12 @@
 <hr/>
 <h2> 머리글: </h2> 
 
-<list>이름 : 박지후 <br><br>
+이름 : 박지후 <br><br>
   
 *이메일 : hayoung25@naver.com <br>
 *블로그 : https://blog.naver.com/duddjwhffkah <br>
 *Github : https://github.com/prakjign <br>
-</list> 
+
 직업 목표
 교육
 2019 서울 호서전문학교 재학(3년재)
