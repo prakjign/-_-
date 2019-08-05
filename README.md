@@ -6,7 +6,7 @@
 <hr/>
 머리글:
 
-이름 : 박지후 
+*이름 : 박지후 *
 이메일 : hayoung25@naver.com
 블로그 : https://blog.naver.com/duddjwhffkah
 Github : https://github.com/prakjign
