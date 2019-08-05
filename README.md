@@ -8,8 +8,8 @@
 
 <list>이름 : 박지후 
 1.이메일 : hayoung25@naver.com
-1.블로그 : https://blog.naver.com/duddjwhffkah
-1.Github : https://github.com/prakjign
+3.블로그 : https://blog.naver.com/duddjwhffkah
+4.Github : https://github.com/prakjign
 </list> 
 직업 목표
 교육
