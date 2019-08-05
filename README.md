@@ -8,7 +8,7 @@
 
 이름 : 박지후 <br><br>
   
-####1. 이메일 : hayoung25@naver.com <br>
+#### 1. 이메일 : hayoung25@naver.com <br>
 ####1. 블로그 : https://blog.naver.com/duddjwhffkah <br>
 ####1. Github : https://github.com/prakjign <br>
 
