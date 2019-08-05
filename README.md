@@ -6,7 +6,8 @@
 <hr/>
 <h2> 머리글: </h2> 
 
-<list>이름 : 박지후 
+<list>이름 : 박지후 <br><br>
+  
 1.이메일 : hayoung25@naver.com <br>
 3.블로그 : https://blog.naver.com/duddjwhffkah <br>
 4.Github : https://github.com/prakjign <br>
