@@ -7,9 +7,9 @@
 <h2> 머리글: </h2> 
 
 <list>이름 : 박지후 
-1.이메일 : hayoung25@naver.com
-3.블로그 : https://blog.naver.com/duddjwhffkah
-4.Github : https://github.com/prakjign
+1.이메일 : hayoung25@naver.com <br>
+3.블로그 : https://blog.naver.com/duddjwhffkah <br>
+4.Github : https://github.com/prakjign <br>
 </list> 
 직업 목표
 교육
